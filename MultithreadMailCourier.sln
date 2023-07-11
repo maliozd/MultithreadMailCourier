@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadMailCourier", "MultithreadMailCourier\MultithreadMailCourier.csproj", "{33F12B2A-90BF-4EF4-A99F-1408EE9EBC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F12B2A-90BF-4EF4-A99F-1408EE9EBC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F12B2A-90BF-4EF4-A99F-1408EE9EBC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F12B2A-90BF-4EF4-A99F-1408EE9EBC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F12B2A-90BF-4EF4-A99F-1408EE9EBC66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5A949A-8306-4F52-B661-17F31769A885}
+	EndGlobalSection
+EndGlobal
